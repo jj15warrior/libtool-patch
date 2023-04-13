@@ -1,5 +1,5 @@
 # libtool-patch
-patch that disables libtool aka RootBeer
+patch that disables libtool aka RootBeer (c++ library for detecting root access on devices)
 
 usefull for reverse engineering banking apps or mObywatel, as this library is commonly used in such
 
